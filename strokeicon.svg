@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="103.86904mm"
+   height="103.85538mm"
+   viewBox="0 0 103.86904 103.85538"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="strokeicon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="183.43678"
+     inkscape:cy="283.13699"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-57.3006,-96.23898)">
+    <g
+       id="g2324"
+       transform="translate(-340.65641,230.46638)"
+       inkscape:export-filename="C:\Users\Julie\Documents\Nobel\OVRPLYD\karenxhitesh\strokeicon.png"
+       inkscape:export-xdpi="2000"
+       inkscape:export-ydpi="2000">
+      <path
+         id="path1604-7-5"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 449.88474,-133.22668 c -8.80515,2.6e-4 -17.09894,1.68776 -25.11925,6.62664 l 23.70883,13.68961 c 0.43544,-0.0196 0.87126,-0.03 1.30714,-0.031 11.41475,6.9e-4 21.88291,6.34624 27.16373,16.465985 l 23.86731,13.78046 c -0.21734,-27.972035 -22.95488,-50.533075 -50.92776,-50.532415 z m 50.92601,51.324895 -23.86378,13.77862 c -5.28111,10.120334 -15.75011,16.46599 -27.16551,16.46603 -0.43586,9.8e-5 -0.87167,-0.0091 -1.30714,-0.0276 l -23.70883,13.68783 c 8.82543,5.434011 16.31426,6.625157 25.11925,6.62488 27.9715,-2.98e-4 50.7077,-22.559972 50.92601,-50.53062 z"
+         sodipodi:nodetypes="cccccccccccccccc" />
+      <path
+         id="path1604-6"
+         style="fill:none;fill-opacity:1;stroke:#de0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+         d="m 423.92314,-126.1121 a 50.9281,50.9281 0 0 0 -24.96613,43.813175 50.9281,50.9281 0 0 0 24.96613,43.81314 v -27.37208 a 30.641899,30.641899 0 0 1 -4.78347,-16.44106 30.641899,30.641899 0 0 1 4.78347,-16.44107 z"
+         inkscape:export-filename="C:\Users\Julie\Documents\Nobel\OVRPLYD\karenxhitesh\ICON.png"
+         inkscape:export-xdpi="6000"
+         inkscape:export-ydpi="6000" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;fill-opacity:1;stroke:#787878;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path894-3-7-3-5-9-7-5"
+         sodipodi:sides="3"
+         sodipodi:cx="449.8848"
+         sodipodi:cy="-82.298912"
+         sodipodi:r1="23.41489"
+         sodipodi:r2="11.707445"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-4.0185686"
+         inkscape:export-filename="C:\Users\Julie\Documents\Nobel\OVRPLYD\karenxhitesh\ICON.png"
+         inkscape:export-xdpi="6000"
+         inkscape:export-ydpi="6000"
+         d="m 473.29969,-82.298912 -35.12234,20.27789 V -102.5768 Z" />
+    </g>
+  </g>
+</svg>
